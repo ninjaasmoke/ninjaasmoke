@@ -1,4 +1,6 @@
 # BUILD FROM SCRATCH
 
-Check out my apps [here](https://drive.google.com/folderview?id=1xnki9EzS4ZLLpiFf6TB-pDoy9OzXCKgC).\
-And my page [here](https://ninjaasmoke.github.io).
+## Check out my apps [here](https://drive.google.com/folderview?id=1xnki9EzS4ZLLpiFf6TB-pDoy9OzXCKgC).
+A few apps that I built on Flutter and Dart, using REST APIs.
+## And my page [here](https://ninjaasmoke.github.io).
+I'm learning web development, xD
