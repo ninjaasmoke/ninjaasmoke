@@ -6,6 +6,8 @@ A few apps that I built on Flutter and Dart, using REST APIs.
 And my page [here](https://ninjaasmoke.github.io). <br />
 I'm learning web development, xD
 
+[My Resume](https://drive.google.com/uc?export=download&id=1LV7J_LOuFSHOf9OYRgTBQ5XMCdW4VssP)
+
 
 [![Nithin's github stats](https://github-readme-stats.vercel.app/api?username=ninjaasmoke&count_private=true&show_icons=true&hide=prs&theme=vue)](https://github.com/ninjaasmoke/github-readme-stats)
 <br />
