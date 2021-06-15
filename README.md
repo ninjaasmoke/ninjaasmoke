@@ -8,4 +8,4 @@ I'm learning web development, xD
 
 [My Resume](https://drive.google.com/uc?export=download&id=1LV7J_LOuFSHOf9OYRgTBQ5XMCdW4VssP)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ninjaasmoke&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ninjaasmoke&layout=compact&theme=gotham)
