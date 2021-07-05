@@ -1,6 +1,4 @@
-![ninjaasmoke](https://user-images.githubusercontent.com/57380806/124467636-bfb41000-ddb5-11eb-9e4c-d06f1ce6c418.png)
-
-
+![ninjaasmoke](https://user-images.githubusercontent.com/57380806/124467936-233e3d80-ddb6-11eb-8b81-99149d8b6229.png)
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 **About Me** ⚡
@@ -36,7 +34,7 @@ ___
 
 ___
 
-**My socials** 🔗
+**My links** 🔗
 
 [Website](https://ninjaasmoke.github.io)   
 [Instagram](https://instagram.com/nithinsai_)
