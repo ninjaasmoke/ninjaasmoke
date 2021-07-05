@@ -8,7 +8,7 @@ I'm a programmer & developer. I love working on projects involving app & web dev
 I'm currently studying Bachelors of Computer Science [@Atria](https://atria.edu/home.php).
 ___
 
-**These are few of my latest personal projects** 🚧
+**Few of my latest personal projects** 🚧
 
 * [Game of Life Simulation](https://github.com/ninjaasmoke/game-of-life) with React. 🌠
 * [Double Pendulum](https://github.com/ninjaasmoke/processing/tree/main/double_pendulum) - A simulation of double pendulum. 📚
