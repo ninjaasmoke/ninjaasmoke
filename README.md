@@ -1,4 +1,5 @@
-![ninjaasmoke](https://user-images.githubusercontent.com/57380806/124468751-2554cc00-ddb7-11eb-85fa-f4124ed0d049.png)
+![ninjaasmoke](https://user-images.githubusercontent.com/57380806/124469281-c9d70e00-ddb7-11eb-8d7a-290b437eec9f.png)
+
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 **About Me** ⚡
