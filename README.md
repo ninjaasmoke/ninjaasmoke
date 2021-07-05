@@ -18,7 +18,7 @@ ___
 * [Assignmentium App](https://play.google.com/store/apps/details?id=com.ninjaasmoke.assignmentium&hl=en_IN&gl=US) - An android app for assignments. ✏️
 ---
 
-**My favourite tools** 🛠️
+**My favourite languages & tools** 🛠️
 
 <p display="flex">
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="32px" height="32px"/> </a>
@@ -31,6 +31,7 @@ ___
   <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="32" height="32"/> </a> 
   <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="32" height="32"/> </a> 
   <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="32" height="32"/> </a>
+  <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="32" height="32"/> </a>
 </p>
 
 ___
