@@ -5,7 +5,7 @@
 **About Me** ⚡
 
 I'm a programmer & developer. I love working on projects involving app & web development. I'm venturing into machine learning, it's super interesting!   
-I'm currently studying Bachelors of Computer Science [@Atria](https://atria.edu/home.php).
+I'm currently studying B.E. Computer Science [@Atria](https://atria.edu/home.php).
 ___
 
 **Few of my latest personal projects** 🚧
