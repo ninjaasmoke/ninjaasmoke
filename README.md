@@ -39,5 +39,5 @@ ___
 **My links** 🔗
 
 [Website](https://ninjaasmoke.github.io)   
-[Instagram](https://instagram.com/nithinsai_)
+[Instagram](https://instagram.com/nithinsai_)    
 [LinkedIn](https://www.linkedin.com/in/nithin-sai/)
