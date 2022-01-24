@@ -1,4 +1,4 @@
-![ninjaasmoke](https://raw.githubusercontent.com/ninjaasmoke/ninjaasmoke/master/ghReadme.svg)
+![ninjaasmoke](https://github.com/ninjaasmoke/ninjaasmoke/blob/master/ghReadme.png?raw=true)
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
