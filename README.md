@@ -4,7 +4,9 @@
 
 **About Me** ⚡
 
-I'm a programmer & developer. I love working on projects involving app & web development. I'm venturing into machine learning, it's super interesting!   
+~I'm a programmer & developer. I love working on projects involving app & web development. I'm venturing into machine learning, it's super interesting!~
+I want to learn how to code. The more i learn the more i feel like idk.
+
 I'm currently integrating stuff [@Setu](https://setu.co).
 ___
 
@@ -21,7 +23,9 @@ ___
 **My favourite languages & tools** 🛠️
 
 <p display="flex">
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="32px" height="32px"/> </a>
+   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="html5" width="32px" height="32px"/> </a>
+   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="html5" width="32px" height="32px"/> </a>
+   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="32px" height="32px"/> </a>
   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="32px" height="32px"/> </a>
   <a href="https://www.w3schools.com/js/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="32" height="32"/> </a>
   <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="32" height="32"/> </a>
