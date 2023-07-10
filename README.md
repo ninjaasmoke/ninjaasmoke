@@ -23,6 +23,8 @@ ___
 **My favourite languages & tools** 🛠️
 
 <p display="flex">
+   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/rust.svg" alt="html5" width="32px" height="32px"/> </a>
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="html5" width="32px" height="32px"/> </a>
    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="html5" width="32px" height="32px"/> </a>
    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="html5" width="32px" height="32px"/> </a>
    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="32px" height="32px"/> </a>
