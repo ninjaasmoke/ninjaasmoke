@@ -43,10 +43,13 @@ ___
 
 ___
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ninjaasmoke&size_weight=0.5&count_weight=1&hide=html,css,scss,swift,kotlin&layout=compact&theme=tokyonight)
+___
+
 **My links** 🔗
 
-[Website](https://ninjaasmoke.github.io)   
-[Instagram](https://instagram.com/nithinsai_)    
+[Website](https://nithin.cloud)   
+[Blog](https://blog.nithin.cloud)    
 [LinkedIn](https://www.linkedin.com/in/ninjaasmoke/)
 
 ---
